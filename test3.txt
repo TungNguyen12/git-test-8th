@@ -1,1 +1,2 @@
 Hello I am feature2, a new feature created from branch master
+Hello I am line 2 from the feature4 branch.
