@@ -1,1 +1,2 @@
 Hello I am feature2, a new feature created from branch master
+I am the 2nd line from master branch, my purpose is to conflict when merging branches
