@@ -1,1 +1,3 @@
 Hey I am test2 and I am from feature1 branch.
+Nothing at line 2
+Now here we write something to make it conflict with the feature4
