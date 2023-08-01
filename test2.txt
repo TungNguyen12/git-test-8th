@@ -1,1 +1,3 @@
 Hey I am test2 and I am from feature1 branch.
+
+Hey, I am test2 at feature4 branch, let's create some conflicts
