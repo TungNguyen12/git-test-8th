@@ -1,2 +1,9 @@
 working directory -> stagging area -> local repository -> remote repository
 test-project      -> git add       -> git commit       -> git push
+
+
+make changes -> git add (add the changes) -> git commit (commit the changes to local repo) -> git push (upload the changes to the remote repo)
+
+eg, if you teammates have updated and pushed a lot of changes in remote repo -> you want to get all the changes and updates to your local repo -> git pull 
+
+git pull 
