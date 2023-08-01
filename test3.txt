@@ -1,0 +1,1 @@
+Hello I am feature3, a new feature created from branch master
